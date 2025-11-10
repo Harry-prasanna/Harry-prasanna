@@ -18,7 +18,7 @@ class AndroidDeveloper:
         self.role = "Kotlin Android Developer"
         self.education = "B.Tech in Computer Science (Cybersecurity)"
         self.university = "Kalasalingam Academy of Research and Education"
-        self.skills = ["Kotlin", "Jetpack Compose", "Room DB", "Dagger Hilt", "REST APIs", "Python", "AWS", "SQL"]
+        self.skills = ["Kotlin", "Jetpack Compose", "Room DB", "Dagger Hilt", "REST APIs", "Java", "SQL"]
         self.focus = "Building secure, scalable Android apps and exploring AI-powered automation."
         
     def say_hi(self):
@@ -34,7 +34,7 @@ me.say_hi()
 
 🎓 **B.Tech in Computer Science (Cybersecurity)**  
 🧭 *Kalasalingam University, India (2021 - 2025)*  
-📊 GPA: 7.7 / 10  
+📊 GPA: 7.87 / 10  
 📚 **Relevant Coursework:** Data Structures, Algorithms, Machine Learning, Cloud Computing, Ethical Hacking, Network Security  
 
 ---
@@ -50,14 +50,6 @@ me.say_hi()
 ---
 
 ### 🧠 Research & Projects  
-
-#### ☁️ **Cloud Infrastructure Automation**  
-🛠 *Terraform | AWS | Python*  
-* Automated AWS provisioning (EC2, VPC, IAM)  
-* Enabled scalable and secure infrastructure setup  
-* Ensured reproducibility and cost optimization through Infrastructure as Code  
-
----
 
 #### 🤖 **Deepfake Detection System**  
 🧩 *TensorFlow | OpenCV | Python*  
@@ -108,8 +100,7 @@ me.say_hi()
 #### 💻 Languages & Frameworks  
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)   
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 
@@ -120,12 +111,6 @@ me.say_hi()
 ![Room](https://img.shields.io/badge/Room-FF6F00?style=for-the-badge)  
 ![Dagger Hilt](https://img.shields.io/badge/Dagger_Hilt-0A0A0A?style=for-the-badge)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-
-#### ☁️ Cloud & DevOps  
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)  
-![CI/CD](https://img.shields.io/badge/CI/CD-005571?style=for-the-badge&logo=githubactions&logoColor=white)  
 
 #### 🧠 AI/ML  
 
@@ -144,6 +129,7 @@ me.say_hi()
 ### 🏅 Certifications & Achievements  
 
 🏆 **Winner** — Youth to Entrepreneurship Ideathon 2024  
+🔒 **EC-Council Certified Ethical Hacker (CEH)** — Fundamentals of Cybersecurity and Ethical Hacking 
 🎓 **Google Cybersecurity Certification** — Foundations of Cybersecurity, Python Automation, Network Security  
 🧠 **GUVI Ethical Hacking Certification** — Dark Web & Threat Detection  
 💼 **Cybersecurity Internship** — Teachnook Technologies Pvt Ltd  
