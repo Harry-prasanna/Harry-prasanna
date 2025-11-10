@@ -4,7 +4,7 @@
 <h3 align="center">👨‍💻 Android Developer | Kotlin Enthusiast | Cybersecurity | Full Stack Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Android+Developer+%7C+Kotlin+%7C+Jetpack+Compose;Cybersecurity;Building+Secure+and+Scalable+Apps;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Android+Developer+%7C+Kotlin+%7C+Jetpack+Compose;Cybersecurity+%7C+Certified Ethical Hacker;Building+Secure+and+Scalable+Apps;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -99,30 +99,47 @@ me.say_hi()
 
 #### 💻 Languages & Frameworks  
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)   
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
 
 #### 🧩 Frameworks & Tools  
 
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)  
-![Retrofit](https://img.shields.io/badge/Retrofit-4285F4?style=for-the-badge)  
-![Room](https://img.shields.io/badge/Room-FF6F00?style=for-the-badge)  
-![Dagger Hilt](https://img.shields.io/badge/Dagger_Hilt-0A0A0A?style=for-the-badge)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Retrofit-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Room-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dagger_Hilt-0A0A0A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
-#### 🧠 AI/ML  
+#### ☁️ Cloud & DevOps  
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-005571?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+#### 🧠 AI / ML  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
 
 #### 🗃️ Databases  
 
-![MySQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
 
 </div>
+
 
 ---
 
@@ -153,22 +170,6 @@ me.say_hi()
 ### 💬 Fun Fact  
 
 > “I turn caffeine ☕ into Android apps 📱 and automation scripts 🤖.”  
-
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hariprasanna3411&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hariprasanna3411&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hariprasanna3411&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Activity Graph"/>
-</p>
 
 ---
 
