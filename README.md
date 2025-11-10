@@ -148,7 +148,6 @@ me.say_hi()
 
 🏆 **Winner** — Youth to Entrepreneurship Ideathon 2024  
 🔒 **EC-Council Certified Ethical Hacker (CEH)** — Fundamentals of Cybersecurity and Ethical Hacking
-
 🎓 **Google Cybersecurity Certification** — Foundations of Cybersecurity, Python Automation, Network Security  
 🧠 **GUVI Ethical Hacking Certification** — Dark Web & Threat Detection  
 💼 **Cybersecurity Internship** — Teachnook Technologies Pvt Ltd  
