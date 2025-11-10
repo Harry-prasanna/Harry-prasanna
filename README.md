@@ -4,8 +4,9 @@
 <h3 align="center">👨‍💻 Android Developer | Kotlin Enthusiast | Cybersecurity | Full Stack Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Android+Developer+%7C+Kotlin+%7C+Jetpack+Compose;Cybersecurity+%7C+Certified Ethical Hacker;Building+Secure+and+Scalable+Apps;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Android+Developer+%7C+Kotlin+%7C+Jetpack+Compose;Cybersecurity+%7C+Certified+Ethical+Hacker;Building+Secure+and+Scalable+Apps;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
 </p>
+
 
 ---
 
