@@ -12,21 +12,34 @@
 
 ### 🌎 About Me  
 
-```python
-class AndroidDeveloper:
-    def __init__(self):
-        self.name = "Hariprasanna Balasubramanian"
-        self.role = "Kotlin Android Developer"
-        self.education = "B.Tech in Computer Science (Cybersecurity)"
-        self.university = "Kalasalingam Academy of Research and Education"
-        self.skills = ["Kotlin", "Jetpack Compose", "Room DB", "Dagger Hilt", "REST APIs", "Java", "SQL"]
-        self.focus = "Building secure, scalable Android apps and exploring AI-powered automation."
-        
-    def say_hi(self):
-        print("Hello there 👋 Let's create something innovative together!")
+```kotlin
+class AndroidDeveloper {
 
-me = AndroidDeveloper()
-me.say_hi()
+    val name: String = "Hariprasanna Balasubramanian"
+    val role: String = "Kotlin Android Developer"
+    val education: String = "B.Tech in Computer Science (Cybersecurity)"
+    val university: String = "Kalasalingam Academy of Research and Education"
+    val skills: List<String> = listOf(
+        "Kotlin",
+        "Jetpack Compose",
+        "Room DB",
+        "Dagger Hilt",
+        "REST APIs",
+        "Java",
+        "SQL"
+    )
+    val focus: String = "Building secure, scalable Android apps and exploring AI-powered automation."
+
+    fun sayHi() {
+        println("Hello there 👋 Let's create something innovative together!")
+    }
+}
+
+fun main() {
+    val me = AndroidDeveloper()
+    me.sayHi()
+}
+
 ```
 
 ---
