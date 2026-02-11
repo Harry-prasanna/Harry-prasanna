@@ -13,20 +13,30 @@
 ### 🌎 About Me  
 
 ```python
-class AndroidDeveloper:
-    def __init__(self):
-        self.name = "Hariprasanna Balasubramanian"
-        self.role = "Kotlin Android Developer"
-        self.education = "B.Tech in Computer Science (Cybersecurity)"
-        self.university = "Kalasalingam Academy of Research and Education"
-        self.skills = ["Kotlin", "Jetpack Compose", "Room DB", "Dagger Hilt", "REST APIs", "Java", "SQL"]
-        self.focus = "Building secure, scalable Android apps and exploring AI-powered automation."
-        
-    def say_hi(self):
-        print("Hello there 👋 Let's create something innovative together!")
+cclass AndroidDeveloper {
 
-me = AndroidDeveloper()
-me.say_hi()
+    val name = "Hariprasanna Balasubramanian"
+    val role = "Kotlin Android Developer"
+    val education = "B.Tech in Computer Science (Cybersecurity)"
+    val university = "Kalasalingam Academy of Research and Education"
+    val skills = listOf(
+        "Kotlin",
+        "Jetpack Compose",
+        "Room DB",
+        "Dagger Hilt",
+        "REST APIs",
+        "Java",
+        "SQL"
+    )
+    val focus = "Building secure, scalable Android apps and exploring AI-powered automation."
+
+    fun sayHi() {
+        println("Hello there 👋 Let's build something innovative together!")
+    }
+}
+
+val me = AndroidDeveloper()
+me.sayHi()
 ```
 
 ---
