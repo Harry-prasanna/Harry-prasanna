@@ -28,18 +28,15 @@ class AndroidDeveloper {
         "Java",
         "SQL"
     )
-    val focus: String = "Building secure, scalable Android apps and exploring AI-powered automation."
+    val focus = "Building secure, scalable Android apps and exploring AI-powered automation."
 
     fun sayHi() {
-        println("Hello there 👋 Let's create something innovative together!")
+        println("Hello there 👋 Let's build something innovative together!")
     }
 }
 
-fun main() {
-    val me = AndroidDeveloper()
-    me.sayHi()
-}
-
+val me = AndroidDeveloper()
+me.sayHi()
 ```
 
 ---
