@@ -13,7 +13,7 @@
 ### 🌎 About Me  
 
 ```python
-cclass AndroidDeveloper {
+class AndroidDeveloper {
 
     val name = "Hariprasanna Balasubramanian"
     val role = "Kotlin Android Developer"
